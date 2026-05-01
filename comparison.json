@@ -1,0 +1,106 @@
+{
+  "baseline_wer": 0.1673,
+  "finetuned_wer": 0.08251016850668216,
+  "examples": [
+    {
+      "reference": "the governor also stated today we learned that some school aged children have been identified as having had contact with the patient",
+      "baseline": "the governor also stated, today we learned that some school-aged children have been identified as having had contact with the patient.",
+      "finetuned": "the governor also stated today we learned that some school-aged children haven't identified as having had contact with the patient"
+    },
+    {
+      "reference": "the health minister expressed concern both for the welfare of individuals taking advantage of the temporary legality of the substances involved and for drug-related convictions handed down since the now-unconstitutional changes came into effect",
+      "baseline": "the health minister expressed concern both for the welfare of individuals taking advantage of the temporary legality of the substances involved, and for drug-related convictions handed down since the now unconstitutional changes came into effect.",
+      "finetuned": "the health minister expressed concern both for the welfare of individuals taking advantage of the temporary legality of the substances involved and for drug-related convictions handed down since the now-unconstitutional changes came into effect"
+    },
+    {
+      "reference": "out of 1,400 people polled prior to the 2010 federal election those who oppose australia becoming a republic grew by 8 per cent since 2008",
+      "baseline": "out of 1,400 people polled prior to the 2010 federal election, those who oppose australia becoming a republic group by 8% since 2008.",
+      "finetuned": "at a 1,400 people polled prior to the 2010 federal election those who opposed australia becoming a republic grew by 8% since 2008"
+    },
+    {
+      "reference": "individuals who had been involved for several decades helped us appreciate our strengths and passions while candidly assessing difficulties and even failures",
+      "baseline": "individuals who have been involved for several decades help us appreciate our strengths and passions while candidly assessing difficulties and even failures.",
+      "finetuned": "individuals who had been involved for several decades helped us appreciate our strengths and passions while candidly assessing difficulties and even failures"
+    },
+    {
+      "reference": "for instance they didn't have corn nor tomatoes nor potatoes nor cocoa and no ancient roman ever tasted a turkey",
+      "baseline": "for instance, they didn't have corn, nor tomatoes, nor potatoes, nor cocoa, and no ancient roman ever tasted a turkey.",
+      "finetuned": "for instance they didn't have corn nor tomatoes nor potatoes nor cocoa and no ancient roman ever tasted a turkey"
+    },
+    {
+      "reference": "moreover top judge evangelos kalousis is imprisoned as he found guilty of corruption and degenerate behaviour",
+      "baseline": "moreover, top judge evangelos caluis is imprisoned as he found guilty of corruption and gender behavior.",
+      "finetuned": "moreover top judge evangelos calouise is imprisoned as he found guilty of corruption and gender behavior"
+    },
+    {
+      "reference": "i need pre-authorization for biologic medication for psoriasis",
+      "baseline": "request itemized bill for hospitalization last month.",
+      "finetuned": "request itemized bill for hospitalization last month"
+    },
+    {
+      "reference": "italy's main goals were african countries to capture those countries they would need to have a troop launching pad so as troops could sail across the mediterranean sea and invade africa",
+      "baseline": "ale's main goals were african countries. to capture those countries, they would need to have a troop launching pad so as troops could sail across the mediterranean sea and invade africa.",
+      "finetuned": "elie's main goals were african countries to capture those countries they would need to have a troop launching pad so as troops could sail across the mediterranean sea and invade africa"
+    },
+    {
+      "reference": "residents from other areas often cite family-friendliness as a primary reason for moving there and visitors often find the city easy to enjoy with children around",
+      "baseline": "residents from other areas often cite family friendliness as a primary reason for moving there, and visitors often find the city easy to enjoy with children around.",
+      "finetuned": "residents from other areas often cite family friendliness as a primary reason for moving there and visitors often find the city easy to enjoy with children around"
+    },
+    {
+      "reference": "now widely available throughout the archipelago javanese cuisine features an array of simply seasoned dishes the predominant flavorings the javanese favor being peanuts chillies sugar especially javanese coconut sugar and various aromatic spices",
+      "baseline": "now widely available throughout the archi palago, japanese cuisine features an array of simply seasoned dishes, the predominant flavorings, the japanese favor being peanut chilies, sugar, especially japanese coconut sugar, and various aromatic spices.",
+      "finetuned": "now widely available throughout the archipelago japanese cuisines features an array of simply seasoned dishes the predominant flavorings the japanese favor being peanut chiles sugar especially japanese coconut sugar and various aromatic spices"
+    },
+    {
+      "reference": "booking in advance gives the traveller peace of mind that they will have somewhere to sleep once they arrive at their destination",
+      "baseline": "booking in advance gives the traveler peace of mind that they will have somewhere to sleep once they arrive at their destination.",
+      "finetuned": "booking in advance gives the traveller peace of mind that they will have somewhere to sleep once they arrive at their destination"
+    },
+    {
+      "reference": "the first known transportation was walking humans began walking upright two million years ago with the emergence of homo erectus meaning upright man",
+      "baseline": "the first known transportation was walking. humans began walking upright two million years ago with the emergence of homo erectus, meaning upright man.",
+      "finetuned": "the first known transportation was walking humans began walking upright two million years ago with the emergence of homo erectus meaning upright man"
+    },
+    {
+      "reference": "as the areas are sparsely populated and light pollution therefore often not a problem you will also be able to enjoy the stars",
+      "baseline": "as the areas are sparsely populated and light pollution therefore often not a problem, you will also be able to enjoy the stars.",
+      "finetuned": "as the areas are sparsely populated and light pollution therefore often not a problem you will also be able to enjoy the stars"
+    },
+    {
+      "reference": "participating countries present artistic and educational displays in national pavilions to showcase world issues or their country's culture and history",
+      "baseline": "participating countries present artistic and educational displays in national pavilions to showcase world issues on their country's current culture and history.",
+      "finetuned": "participating countries present artistic and educational displays in national pavilions to showcase world issues on their country's current culture and history"
+    },
+    {
+      "reference": "if an iron isn't available or if you don't fancy wearing ironed socks then you can try using a hairdryer if available",
+      "baseline": "if an iron isn't available, or if you don't fancy wearing iron socks, then you can try using a hairdryer if available.",
+      "finetuned": "if an iron isn't available or if you don't fancy wearing iron socks then you can try using a hairdryer if available"
+    },
+    {
+      "reference": "it is now important from both a public health and criminal justice perspective that the legislation be enacted as soon as possible said a government spokesperson",
+      "baseline": "it is now important from both a public health and criminal justice perspective that the legislation be enacted on as soon as possible, said a government spokesperson.",
+      "finetuned": "it is now important from both a public health and criminal justice perspective that the legislation be enacted on as soon as possible said a government spokesperson"
+    },
+    {
+      "reference": "the death toll is at least 15 a figure which is expected to rise",
+      "baseline": "the death toll is at least 15, a figure which is expected to rise.",
+      "finetuned": "the death toll is at least 15 a figure which is expected to rise"
+    },
+    {
+      "reference": "each of these nomadic rampages or marches lasts for approximately 17 days",
+      "baseline": "each of these nomadic rampages or marches last for approximately 17 days.",
+      "finetuned": "each of these nomadic rampages or marches last for approximately 17 days"
+    },
+    {
+      "reference": "need referral for sleep study suspected obstructive sleep apnea",
+      "baseline": "need referral for sleep studies suspected obstructive sleep apnea",
+      "finetuned": "need referral for sleep studies suspected obstructive sleep apnea"
+    },
+    {
+      "reference": "everyone can achieve enlightenment the only thing standing in the way of this goal is our own tension and negativity",
+      "baseline": "everyone can achieve enlightenment. the only thing standing in the way of this goal is out of our own tension and negativity.",
+      "finetuned": "everyone can achieve enlightenment the only thing standing in the way of this goal is out of our own tension and negativity"
+    }
+  ]
+}
