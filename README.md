@@ -26,7 +26,20 @@ The fine-tune primarily learned:
 3. **Hyphenation patterns** — "now unconstitutional" → "now-unconstitutional"
 
 ### Example
-See `comparison.json` for 20 side-by-side examples.
+
+```
+REF:  for instance they didn't have corn nor tomatoes nor potatoes nor cocoa
+BASE: for instance, they didn't have corn, nor tomatoes, nor potatoes, nor cocoa.
+FT:   for instance they didn't have corn nor tomatoes nor potatoes nor cocoa
+```
+
+```
+REF:  individuals who had been involved for several decades helped us appreciate our strengths
+BASE: individuals who have been involved for several decades help us appreciate our strengths
+FT:   individuals who had been involved for several decades helped us appreciate our strengths
+```
+
+See `comparison.json` for full side-by-side examples.
 
 ## Method
 
