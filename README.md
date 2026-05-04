@@ -3,7 +3,7 @@
 Weekend experiment fine-tuning Whisper-small on healthcare domain speech. **50.7% relative WER reduction** in 6 minutes of T4 training.
 
 ## Results
-
+ 
 | Metric | Baseline | Fine-tuned | Δ |
 |--------|----------|------------|---|
 | WER (test set, n=83) | 16.73% | **8.25%** | **-50.7% relative** |
